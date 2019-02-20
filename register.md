@@ -1,7 +1,7 @@
 # Registration
 
 One is required to register in-order to use the API . Once Registration is successful,
- Please contact support desk at dennis.monari@hotmail.com to get your account activated.
+ Please contact support desk to get your account activated.
 
 
 ### JSON representation
