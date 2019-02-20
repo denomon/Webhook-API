@@ -15,8 +15,7 @@ Once registered and activated and have retrieved your access token. You can now 
 	"payload": {
           "key1":"value1",
           "key2":"value2",
-          "key3":"value3",
-          ........
+          "key3":"value3"
         }
 }
 ```
@@ -43,10 +42,8 @@ Once registered and activated and have retrieved your access token. You can now 
 
 | Property | Type | Description |
 |:---------|:-----|:------------|
-| **name**   | String | Registrant's name. |
-| **email** | email | The email address. |
-| **password** | String | the password. |
-| **password_confirmation** | String | the password confirmation. |
+| **payload**   | Json | json key value pair. |
+
 
 <!-- {
 "type": "#page.annotation",

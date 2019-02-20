@@ -1,4 +1,4 @@
-# Registration
+# Login
 
 Once registered and activated, Log in to get your  access token. 
 
@@ -31,10 +31,9 @@ Once registered and activated, Log in to get your  access token.
 
 | Property | Type | Description |
 |:---------|:-----|:------------|
-| **name**   | String | Registrant's name. |
 | **email** | email | The email address. |
 | **password** | String | the password. |
-| **password_confirmation** | String | the password confirmation. |
+
 
 <!-- {
 "type": "#page.annotation",
