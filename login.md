@@ -6,6 +6,9 @@ Once registered and activated, Log in to get your  access token.
 ### JSON representation
 
  `POST /api/auth/login`.
+ 
+  `Content-Type:application/json`
+
 
 <!-- { "blockType": "resource",
 "@type": "author",

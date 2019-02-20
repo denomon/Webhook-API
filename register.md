@@ -7,6 +7,9 @@ One is required to register in-order to use the API . Once Registration is succe
 ### JSON representation
 
  `POST /api/auth/signup`.
+ 
+  `Content-Type:application/json`
+
 
 <!-- { "blockType": "resource",
 "@type": "author",

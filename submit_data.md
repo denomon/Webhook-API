@@ -6,6 +6,10 @@ Once registered and activated and have retrieved your access token. You can now 
 ### JSON representation
 
  `POST /api/statements`.
+ 
+ `Content-Type:application/json`
+ 
+ `Authorization : Bearer your_access_token`
 
 <!-- { "blockType": "resource",
 "@type": "author",
