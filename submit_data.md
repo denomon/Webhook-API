@@ -20,16 +20,18 @@ Once registered and activated and have retrieved your access token. You can now 
           "key1":"value1",
           "key2":"value2",
           "key3":"value3"
+	  ........
         }
 }
 ```
 
-200 Created  - indicates that the request has succeeded.
+201 Created  - indicates that the request has succeeded.
 
 
 ```json
 {
-    "message": "Successfully received data"
+    "MessageCode": "201"
+    "Message": "Successfully received data"
 }
 ```
 
@@ -39,6 +41,7 @@ Once registered and activated and have retrieved your access token. You can now 
 
 ```json
 {
+      "MessageCode": "401"
       "error": "account not activated, contact admin"
 }
 ```
